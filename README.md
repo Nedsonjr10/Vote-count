@@ -1,18 +1,13 @@
-## Getting Started
+## Vote Count
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## About
 
-## Folder Structure
+When counting votes in an election, several records are generated
+voting card containing the name of the candidate and the number of votes
+(.csv format) that he obtained from a voting machine. The program reads voting records from a
+file, and then generates a consolidated report with the totals for each
+candidate.
 
-The workspace contains two folders by default, where:
+## Author
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Nedson Nogueira Bomman Junior.
